@@ -1,0 +1,22 @@
+{
+	"name": "Adithya said star wars",
+	"uid": "new_evwnr",
+	"sections": [
+		{
+			"title": "About",
+			"body": [
+				"Lorem Ipsum, is so stupid; no its not",
+				"dolorem ... something ... Hope they make a better dummt text generator :-)"
+			]
+		},
+		{
+			"title": "Table",
+			"parseMethod": "table",
+			"body": [
+				"Star Wars", "never seen",
+				"Starless Wars", "Huh?!!!"
+			]
+		}
+	],
+	"paymentLink": "http://www.google.com"
+}
