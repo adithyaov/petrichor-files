@@ -4,5 +4,11 @@
 	},
 	{
 		"uid": "new_evwnr"
+	},
+	{
+		"uid": "decoy_evt"
+	},
+	{
+		"uid": "ya_decoy_evt"
 	}
 ]

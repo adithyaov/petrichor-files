@@ -20,5 +20,27 @@
 				"An exciting statement which gets people excited or some senseble information about the event."
 			]
 		}
+	},
+	{
+		"date": "15 Jan 2018",
+		"time": "07:54 PM",
+		"place": "Ground",
+		"section": {
+			"title": "Some competition",
+			"body": [
+				"An exciting statement which masks the fact that this event is boring."
+			]
+		}
+	},
+	{
+		"date": "54 Jan 2018",
+		"time": "12:54 PM",
+		"place": "Sky",
+		"section": {
+			"title": "Clodding compeoutition",
+			"body": [
+				"An excadaiting staaftement which gets peoaplae exacited oer seomee sensebileo oinpiformatttiyotnyu about the event."
+			]
+		}
 	}
 ]

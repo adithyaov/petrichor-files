@@ -1,0 +1,22 @@
+{
+	"name": "Wall e",
+	"uid": "ya_decoy_evt",
+	"sections": [
+		{
+			"title": "About",
+			"body": [
+				"wall e again",
+				"wall e isn't overrated!"
+			]
+		},
+		{
+			"title": "Table",
+			"parseMethod": "table",
+			"body": [
+				"No", "dont even!",
+				"kaplaszka", "Huh?"
+			]
+		}
+	],
+	"paymentLink": "none"
+}
