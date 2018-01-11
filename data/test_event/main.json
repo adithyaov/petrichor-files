@@ -1,0 +1,22 @@
+{
+	"name": "Test Event",
+	"uid": "test_event",
+	"sections": [
+		{
+			"title": "About",
+			"body": [
+				"Lorem Ipsum, is so stupid",
+				"Hope they make a better dummt text generator :-)"
+			]
+		},
+		{
+			"title": "Table",
+			"parseMethod": "table",
+			"body": [
+				"Star Wars", "Awesome",
+				"Starless Wars", "Huh?"
+			]
+		}
+	],
+	"paymentLink": "http://www.google.com"
+}
