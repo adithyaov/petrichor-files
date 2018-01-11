@@ -9,5 +9,16 @@
 				"An exciting statement which gets people excited or some senseble information about the event."
 			]
 		}
+	},
+	{
+		"date": "12 Jan 2018",
+		"time": "12:54 PM",
+		"place": "Auditorium",
+		"section": {
+			"title": "Coding competition",
+			"body": [
+				"An exciting statement which gets people excited or some senseble information about the event."
+			]
+		}
 	}
 ]
