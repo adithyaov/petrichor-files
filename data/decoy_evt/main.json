@@ -1,0 +1,22 @@
+{
+	"name": "Finding Wall e",
+	"uid": "decoy_evt",
+	"sections": [
+		{
+			"title": "About",
+			"body": [
+				"wall e",
+				"wall e again"
+			]
+		},
+		{
+			"title": "Table",
+			"parseMethod": "table",
+			"body": [
+				"Go", "Axiom",
+				"kaplaszka", "Huh?"
+			]
+		}
+	],
+	"paymentLink": "none"
+}
