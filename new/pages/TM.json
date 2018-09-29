@@ -1,0 +1,23 @@
+{
+	"title": "THE MASK",
+	"img": "/CODE.jpeg#TM",
+	"content": [
+		["This event serves to showcase the actor inside you and present it on the stage, where your words, emotions, actions and everything will be pondered. It is a drama in which one participant can portray one or more personality.",
+			"p"],
+		[
+			[
+				["Code", "TM"],
+				["Name", "THE MASK"]
+				["Date", "27 Oct 2018"],
+				["Time", "--"],
+				["Venue", "---"],
+				["Contact", ""],
+				["EMAIL ID", "@smail.iitpkd.ac.in"]
+
+			], "t"],
+	],
+	"footer": [
+		{"href": "http://register/djbdkc/", "value": "Register"}
+		{"href": "mailto:djdsd", "value": "Share"}
+	]
+}

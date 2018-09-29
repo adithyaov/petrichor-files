@@ -1,0 +1,29 @@
+{
+	"title": "PICASSO",
+	"img": "/CODE.jpeg#PCS",
+	"content": [
+		["Art enables us to find ourselves and lose ourselves at the same time. Painting is a visual art which can paint thousands of words. Even an old man becomes a child when he paints.",
+			"p"],
+		["Here we are, giving you an opportunity to express your thoughts and present them on a canvas sheet.",
+			"p"],
+		["IIT Palakkad presents, 'Picasso' the painting contest where you can show your creativity.",
+			"p"],
+
+		[
+			[
+				["Code", "PCS"],
+				["Name", "PICASSO"]
+				["Date", "27 Oct 2018"],
+				["Time", "11:00"],
+				["Venue", "---"],
+				["Contact", "9079848696"],
+				["EMAIL ID", "101701012@smail.iitpkd.ac.in"]
+
+			], "t"],
+		
+	],
+	"footer": [
+		{"href": "http://register/djbdkc/", "value": "Register"}
+		{"href": "mailto:djdsd", "value": "Share"}
+	]
+}

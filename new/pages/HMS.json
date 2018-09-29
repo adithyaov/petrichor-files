@@ -1,0 +1,23 @@
+{
+	"title": " Hundred Miles a Second ",
+	"img": "/HMS.jpeg",
+	"content": [
+		["You've always had an unmatchable knack for oration. Here's your chance to level up from bland everyday conversations to the realms of  *Hundred Miles a second*  , a platform for all the talkative ones out there to showcase their flair in speech and instantaneous thinking.Buckle up and get ready to send your thoughts and creativity speeding at hundred miles a second.",
+			"p"],
+		[
+			[
+				["Code", "HMS"],
+				["Name", "Hundred Miles a Second"],
+				["Date", "28 Oct 2018"],
+				["Time", "12:00 PM"],
+				["Venue", "Auditorium"],
+                                ["Contact", "+91-7994257577"]
+
+			], "t"],
+		
+	],
+	"footer": [
+		{"href": "http://register/djbdkc/", "value": "Register"}
+		{"href": "mailto:djdsd", "value": "Share"}
+	]
+}

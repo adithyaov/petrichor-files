@@ -1,0 +1,26 @@
+{
+	"title": "Pen it Down",
+	"img": "/code.jpeg#PID",
+	"content": [
+		["As Wordsworth said, \"Poetry is the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquility.\" But then a mesmerizing poem doesn't just want to sit on paper, it demands itself to be heard out loud or witnessed in person.",
+			"p"],
+
+        ["So having this spirit in our heart here at Perichor, the Techno-Cultural fest of IIT Palakkad, we present you a platform to show your poetry skills and grab exciting prizes.",
+			"p"],
+
+		[
+			[
+				["Code", "PID"],
+				["Name", "Pen it Down"],
+				["Date", "28 Oct 2018"],
+				["Time", "11:00 AM"],
+				["Venue", "Auditorium"],
+                                ["Contact", "9567465230"]
+			], "t"],
+		
+	],
+	"footer": [
+		{"href": "http://register/djbdkc/", "value": "Register"}
+		{"href": "mailto:djdsd", "value": "Share"}
+	]
+}
