@@ -1,4 +1,5 @@
 {
 	"title": "Petrichor - IIT Palakkad",
-	"bg": "https://adithyaov.github.io/petrichor-files/new/images/bg.png"
+	"bg-main": "https://adithyaov.github.io/petrichor-files/new/images/bg.png",
+	"bg-page": "https://adithyaov.github.io/petrichor-files/new/images/bg.png"
 }
