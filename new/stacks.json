@@ -4,35 +4,35 @@
       "items":[
          {
             "title":"Clash of Droids",
-            "img":"/COD.jpeg",
+            "img":"COD.jpeg",
             "date":"27 Oct 2018",
             "time":"1:00 PM",
             "code":"COD"
          },
          {
             "title":"Drone Race",
-            "img":"/DR.jpeg",
+            "img":"DR.jpeg",
             "date":"28 Oct 2018",
             "time":"4:00 PM",
             "code":"DR"
          },
          {
             "title":"Pirate Battle",
-            "img":"/PB.jpeg",
+            "img":"PB.jpeg",
             "date":"28 Oct 2018",
             "time":"1:00 PM",
             "code":"PB"
          },
          {
             "title":"Bridge Design",
-            "img":"/BD.jpeg",
+            "img":"BD.jpeg",
             "date":"27 Oct 2018",
             "time":"4:30 PM",
             "code":"BD"
          },
          {
             "title":"App Development",
-            "img":"/AP.jpeg",
+            "img":"AP.jpeg",
             "date":"27 Oct 2018",
             "time":"1:00 PM",
             "code":"AP"
@@ -84,42 +84,42 @@
       "items":[
          {
             "title":"PICASSO",
-            "img":"/code.jpeg",
+            "img":"code.jpeg",
             "date":"27 Oct 2018",
             "time":"--",
             "code":"PCS"
          },
          {
             "title":"DRAMATRIX BATTLEGROUND",
-            "img":"/code.jpeg",
+            "img":"code.jpeg",
             "date":"27 Oct 2018",
             "time":"--",
             "code":"DB"
          },
          {
             "title":"FEET ON FIRE",
-            "img":"/code.jpeg",
+            "img":"code.jpeg",
             "date":"27 Oct 2018",
             "time":"--",
             "code":"FOF"
          },
          {
             "title":"CALICO, THE FASHION FIESTA",
-            "img":"/code.jpeg",
+            "img":"code.jpeg",
             "date":"27 Oct 2018",
             "time":"--",
             "code":"CFF"
          },
          {
             "title":"THE MASK",
-            "img":"/code.jpeg",
+            "img":"code.jpeg",
             "date":"27 Oct 2018",
             "time":"--",
             "code":"TM"
          },
          {
             "title":"EUPHONY",
-            "img":"/code.jpeg",
+            "img":"code.jpeg",
             "date":"27 Oct 2018",
             "time":"--",
             "code":"EUP"
@@ -131,21 +131,21 @@
       "items":[
          {
             "title":"Hundred Miles A Second",
-            "img":"/HMS.jpeg",
+            "img":"HMS.jpeg",
             "date":"28 Oct 2018",
             "time":"12:00 PM",
             "code":"HMS"
          },
          {
             "title":"Concurso",
-            "img":"/CC.jpeg",
+            "img":"CC.jpeg",
             "date":"27 Oct 2018",
             "time":"12:00 PM",
             "code":"CC"
          },
          {
             "title":"Pen It Down",
-            "img":"/PID.jpeg",
+            "img":"PID.jpeg",
             "date":"28 Oct 2018",
             "time":"11:00 AM",
             "code":"PID"
