@@ -13,11 +13,11 @@
 				["Venue", " "],
 				["Contact", " "]
 
-			], "t"],
+			], "t"]
 		
 	],
 	"footer": [
-		{"href": "http://register/djbdkc/", "value": "Register"}
+		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "mailto:djdsd", "value": "Share"}
 	]
 }

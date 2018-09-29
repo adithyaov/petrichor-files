@@ -1,162 +1,155 @@
 [
-	{
-		"title": "Technical",
-		"items": [
-			{
-				"title": "Clash of Droids",
-				"img": "/COD.jpeg",
-				"date": "27 Oct 2018",
-				"time": "1:00 PM",
-				"code": "COD",
-			}
-			
-			{
-				"title": "Drone Race",
-				"img": "/DR.jpeg",
-				"date": "28 Oct 2018",
-				"time": "4:00 PM",
-				"code": "DR",
-			}
-			{
-				"title": "Pirate Battle",
-				"img": "/PB.jpeg",
-				"date": "28 Oct 2018",
-				"time": "1:00 PM",
-				"code": "PB",
-			}
-			{
-				"title": "Bridge Design",
-				"img": "/BD.jpeg",
-				"date": "27 Oct 2018",
-				"time": "4:30 PM",
-				"code": "BD",
-			}
-			{
-				"title": "App Development",
-				"img": "/AP.jpeg",
-				"date": "27 Oct 2018",
-				"time": "1:00 PM",
-				"code": "AP",
-			}
-
-		]
-
-	},
-	{
-		"title": "Online Events",
-		"items": [
-			{
-				"title": "Scratches and Scribbles",
-				"img": "/CRIB.jpg",
-				"date": "",
-				"time": "",
-				"code": "CRIB",
-			},
-			{	
-				"title": "Ink and Quills",
-				"img": "/INK.jpg",
-				"date": "",
-				"time": "",
-				"code": "INK",
-			},
-			{
-				"title": "Personified",
-                "img": "/PER.jpg",
-				"date": "",
-				"time": "",
-				"code": "PER",
-			},
-			{
-				"title": "Snapshot",
-                "img": "/SNAP.jpg",
-				"date": "",
-				"time": "",
-				"code": "SNAP",
-			},
-			{
-				"title": "Twist the End",
-				"img": "/END.jpg",
-				"date": "",
-				"time": "",
-				"code": "END",
-			}
-		]
-	},
-	{
-		"title": "Cultural",
-		"items": [
-			{
-				"title": "PICASSO",
-				"img": "/code.jpeg",
-				"date": "27 Oct 2018",
-				"time": "--",
-				"code": "PCS",
-			},
-			{
-				"title": "DRAMATRIX BATTLEGROUND",
-				"img": "/code.jpeg",
-				"date": "27 Oct 2018",
-				"time": "--",
-				"code": "DB",
-			},
-			{
-				"title": "FEET ON FIRE",
-				"img": "/code.jpeg",
-				"date": "27 Oct 2018",
-				"time": "--",
-				"code": "FOF",
-			},
-			{
-				"title": "CALICO, THE FASHION FIESTA",
-				"img": "/code.jpeg",
-				"date": "27 Oct 2018",
-				"time": "--",
-				"code": "CFF",
-			},
-			{
-				"title": "THE MASK",
-				"img": "/code.jpeg",
-				"date": "27 Oct 2018",
-				"time": "--",
-				"code": "TM",
-			},
-			{
-				"title": "EUPHONY",
-				"img": "/code.jpeg",
-				"date": "27 Oct 2018",
-				"time": "--",
-				"code": "EUP",
-			}
-		]
-	},
-	{
-		"title": "Literary",
-		"items": [
-			{
-				"title": "Hundred Miles A Second",
-				"img": "/HMS.jpeg",
-				"date": "28 Oct 2018",
-				"time": "12:00 PM",
-				"code": "HMS",
-			}
-			
-			{
-				"title": "Concurso",
-				"img": "/CC.jpeg",
-				"date": "27 Oct 2018",
-				"time": "12:00 PM",
-				"code": "CC",
-			}
-			{
-				"title": "Pen It Down",
-				"img": "/PID.jpeg",
-				"date": "28 Oct 2018",
-				"time": "11:00 AM",
-				"code": "PID",
-			}
-
-		]
-
-	}
+   {
+      "title":"Technical",
+      "items":[
+         {
+            "title":"Clash of Droids",
+            "img":"/COD.jpeg",
+            "date":"27 Oct 2018",
+            "time":"1:00 PM",
+            "code":"COD"
+         },
+         {
+            "title":"Drone Race",
+            "img":"/DR.jpeg",
+            "date":"28 Oct 2018",
+            "time":"4:00 PM",
+            "code":"DR"
+         },
+         {
+            "title":"Pirate Battle",
+            "img":"/PB.jpeg",
+            "date":"28 Oct 2018",
+            "time":"1:00 PM",
+            "code":"PB"
+         },
+         {
+            "title":"Bridge Design",
+            "img":"/BD.jpeg",
+            "date":"27 Oct 2018",
+            "time":"4:30 PM",
+            "code":"BD"
+         },
+         {
+            "title":"App Development",
+            "img":"/AP.jpeg",
+            "date":"27 Oct 2018",
+            "time":"1:00 PM",
+            "code":"AP"
+         }
+      ]
+   },
+   {
+      "title":"Online Events",
+      "items":[
+         {
+            "title":"Scratches and Scribbles",
+            "img":"/CRIB.jpg",
+            "date":"",
+            "time":"",
+            "code":"CRIB"
+         },
+         {
+            "title":"Ink and Quills",
+            "img":"/INK.jpg",
+            "date":"",
+            "time":"",
+            "code":"INK"
+         },
+         {
+            "title":"Personified",
+            "img":"/PER.jpg",
+            "date":"",
+            "time":"",
+            "code":"PER"
+         },
+         {
+            "title":"Snapshot",
+            "img":"/SNAP.jpg",
+            "date":"",
+            "time":"",
+            "code":"SNAP"
+         },
+         {
+            "title":"Twist the End",
+            "img":"/END.jpg",
+            "date":"",
+            "time":"",
+            "code":"END"
+         }
+      ]
+   },
+   {
+      "title":"Cultural",
+      "items":[
+         {
+            "title":"PICASSO",
+            "img":"/code.jpeg",
+            "date":"27 Oct 2018",
+            "time":"--",
+            "code":"PCS"
+         },
+         {
+            "title":"DRAMATRIX BATTLEGROUND",
+            "img":"/code.jpeg",
+            "date":"27 Oct 2018",
+            "time":"--",
+            "code":"DB"
+         },
+         {
+            "title":"FEET ON FIRE",
+            "img":"/code.jpeg",
+            "date":"27 Oct 2018",
+            "time":"--",
+            "code":"FOF"
+         },
+         {
+            "title":"CALICO, THE FASHION FIESTA",
+            "img":"/code.jpeg",
+            "date":"27 Oct 2018",
+            "time":"--",
+            "code":"CFF"
+         },
+         {
+            "title":"THE MASK",
+            "img":"/code.jpeg",
+            "date":"27 Oct 2018",
+            "time":"--",
+            "code":"TM"
+         },
+         {
+            "title":"EUPHONY",
+            "img":"/code.jpeg",
+            "date":"27 Oct 2018",
+            "time":"--",
+            "code":"EUP"
+         }
+      ]
+   },
+   {
+      "title":"Literary",
+      "items":[
+         {
+            "title":"Hundred Miles A Second",
+            "img":"/HMS.jpeg",
+            "date":"28 Oct 2018",
+            "time":"12:00 PM",
+            "code":"HMS"
+         },
+         {
+            "title":"Concurso",
+            "img":"/CC.jpeg",
+            "date":"27 Oct 2018",
+            "time":"12:00 PM",
+            "code":"CC"
+         },
+         {
+            "title":"Pen It Down",
+            "img":"/PID.jpeg",
+            "date":"28 Oct 2018",
+            "time":"11:00 AM",
+            "code":"PID"
+         }
+      ]
+   }
 ]
-

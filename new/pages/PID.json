@@ -16,11 +16,11 @@
 				["Time", "11:00 AM"],
 				["Venue", "Auditorium"],
                                 ["Contact", "9567465230"]
-			], "t"],
+			], "t"]
 		
 	],
 	"footer": [
-		{"href": "http://register/djbdkc/", "value": "Register"}
+		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "mailto:djdsd", "value": "Share"}
 	]
 }

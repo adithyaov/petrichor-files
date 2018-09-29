@@ -20,7 +20,7 @@
 			"p"]
 	],
 	"footer": [
-		{"href": "http://register/djbdkc/", "value": "Register"}
+		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "mailto:djdsd", "value": "Share"}
 	]
 }

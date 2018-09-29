@@ -9,17 +9,17 @@
 		[
 			[
 				["Code", "BD"],
-				["Name", "DRAMATRIX BATTLEGROUND"]
+				["Name", "DRAMATRIX BATTLEGROUND"],
 				["Date", "27 Oct 2018"],
 				["Time", "--"],
 				["Venue", "---"],
 				["Contact", ""],
-				["EMAIL ID", "1@smail.iitpkd.ac.in"],
+				["EMAIL ID", "1@smail.iitpkd.ac.in"]
 
-			], "t"],
+			], "t"]
 	],
 	"footer": [
-		{"href": "http://register/djbdkc/", "value": "Register"}
+		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "mailto:djdsd", "value": "Share"}
 	]
 }

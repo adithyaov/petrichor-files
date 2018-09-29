@@ -14,11 +14,11 @@
 				["Contact", ""],
 				["EMAIL ID", "1@smail.iitpkd.ac.in"]
 
-			], "t"],
+			], "t"]
 		
 	],
 	"footer": [
-		{"href": "http://register/djbdkc/", "value": "Register"}
+		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "mailto:djdsd", "value": "Share"}
 	]
 }
