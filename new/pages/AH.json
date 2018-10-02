@@ -1,21 +1,18 @@
 {
-	"title": "ARSH - IIT Palakkad",
+	"title": " ARSH - IIT PALAKKAD  ",
 	"img": "AH.jpeg",
 	"content": [
-		["With students and faculty from across the length and breadth of the country, IIT Palakkad is a melting pot of different Indic cultures, amidst whose confluence subsists Arsh, the annual cultural festival of the institute.Conceptualised as a platform to showcase the prowess of the institute across art forms, the first edition of Arsh took place in October 2017. With a number of enthralling performances by different cultural clubs, Arsh 2017 was a successful endeavor that set the tone for future editions to be as gripping, if not more",
+		["With students and faculty from across the length and breadth of the country, IIT Palakkad is a melting pot of different Indic cultures, amidst whose confluence subsists Arsh, the annual cultural festival of the institute. Conceptualised as a platform to showcase the prowess of the institute across art forms, the first edition of Arsh took place in October 2017. With a number of enthralling performances by different cultural clubs, Arsh 2017 was a successful endeavor that set the tone for future editions to be as gripping, if not more.",
 			"p"],
 		[
 			[
-			
-				["Date", "27 October 2018"],
-				["Time", "8:00 PM"],
-				["Venue", ""]
+				["Code", "AH"],
+				["Name", "ARSH"],
+				["Date", "27 Oct 2018"],
+				["Time", "07:00 PM"],
+				["Contact", " "]
 
-			], "t"],
+			], "t"]
 		
 	],
-	"footer": [
-		{"href": "http://register/djbdkc/", "value": "Register"}
-		{"href": "mailto:djdsd", "value": "Share"}
-	]
 }
