@@ -151,24 +151,5 @@
             "code":"PID"
          }
       ]
-   },
-   {
-      "title":"Night shows",
-      "items":[
-         {
-            "title" : "Arsh",
-            "img":"AH.jpeg",
-            "date":"27 Oct 2018",
-            "Time":"7:00 PM",
-            "code":"AH",
-         },
-         {
-            "title" : "Thaikkadam Bridge",
-            "img":"TB.jpeg",
-            "date":"28 Oct 2018",
-            "Time":"7:00 PM",
-            "code":"TB",
-         }
-      ]
-   }
+   } 
 ]
