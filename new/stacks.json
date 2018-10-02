@@ -151,5 +151,24 @@
             "code":"PID"
          }
       ]
-   } 
+   },
+     {
+      "title":"Night Shows",
+      "items":[
+         {
+            "title":"Thaikkudam Bridge",
+            "img":"TB.jpeg",
+            "date":"28 Oct 2018",
+            "time":"07:00 PM",
+            "code":"TB"
+         },
+         {
+            "title":"ARSH",
+            "img":"AH.jpeg",
+            "date":"27 Oct 2018",
+            "time":"o7:00 PM",
+            "code":"AH"
+         }
+      ]
+   }
 ]
