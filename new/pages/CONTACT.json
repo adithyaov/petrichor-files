@@ -1,33 +1,19 @@
 {
-	"title": " Contact Us ",
-	"img": "COD.jpeg",
+	"title": " CONTACT US ",
 	"content": [
-		["It will be time for a spectacular showdown in Petrichor when battle-ready bots take on each other to be crowned as the ultimate victor in the fiercest of clashes. Presenting  an event Clash of droids where bots destroy ones of their own kind with a single aim to establish their own supremacy. Meant for all the robot enthusiasts who believe they can make bots capable enough to come through the war, the event awaits robots baying for each other's blood.",
+		["We are here to help you.",
 			"p"],
 		[
 			[
 				["Code", "Fest Coordinater"],
-				["Name", "SHUBHAM GUPTA"],
-				["Contact", "8075016394"]
-
-			], "t"]
-      
-    [
-			[
-				["Code", "Technical Head"],
-				["Name", "SACHIN RUSTAGI"],
-				["Contact", "8075111788"]
-
-			], "t"]
-      
-    [
-			[
-				["Code", "Cultural Head"],
-				["Name", "ANIMESH SONKER"],
-				["Contact", "6386535127"]
+				["Name", "SHUBHAM Gupta"],
+				["Contact", " 8075016394"]
 
 			], "t"]
 		
 	],
-
+	"footer": [
+		{"href": "http://register/djbdkc/", "value": "Register"},
+		{"href": "mailto:djdsd", "value": "Share"}
+	]
 }
