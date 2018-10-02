@@ -1,0 +1,23 @@
+{
+	"title": "Personified",
+	"img": "/pf.jpeg",
+	"content": [
+		["Here's you're opportunity to jump out of your life and explore alternate realities. Roll up your sleeves and get your keyboard ready.Presenting Personified, a competition where you get to delve into the life of mundane everyday objects and give us a glimpse of the world from the perspective of a lifeless thing." ,
+
+                          "p"],
+
+		[
+			[
+				["Code", "PF"],
+				["Name", "Presonified"],
+				["Date", ""],
+				["Time", ""],
+                                ["Contact" , ""]
+
+			], "t"],
+		],
+	"footer": [
+		{"href": "http://register/djbdkc/", "value": "Register"}
+		{"href": "mailto:djdsd", "value": "Share"}
+	]
+}
