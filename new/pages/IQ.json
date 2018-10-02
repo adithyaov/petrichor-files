@@ -1,23 +1,20 @@
 {
-	"title": "Ink and Quills",
-	"img": "iq.jpeg",
+	"title": " INK AND QUILLS ",
+	"img": "IQ.jpeg",
 	"content": [
-		["Ever fall in love with the worlds of Harry Potter, The Lord of the Rings and many other magical books? Ever felt that no-one could quite see them the way you can? Here, we invite you to write your own opinions on many loved books. Help others see them the way you do. Choose a book and tell the world how you see it. Join us at IIT Palakkad. To make the world see your worlds, your way. " ,
-
-                          "p"],
-
+		["In a fast-paced Android world, apps have become an integral part of people's lives. Even the smallest of ideas, when molded into apps, can have the biggest of impacts on the society. For all the app junkies who think big, Petrichor presents App Development, a team event where participants make theme-based Android apps.",
+			"p"],
 		[
 			[
 				["Code", "IQ"],
-				["Name", "Ink and Quills"],
-				["Date", ""],
-				["Time", ""],
-                                ["Contact" , "8281928478"]
+				["Name", "INK AND QUILLS"],
+				["Contact", "8281928478 "]
 
-			], "t"],
-		],
+			], "t"]
+		
+	],
 	"footer": [
-		{"href": "http://register/djbdkc/", "value": "Register"}
+		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "mailto:djdsd", "value": "Share"}
 	]
 }
