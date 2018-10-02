@@ -1,22 +1,24 @@
 {
 	"title": " CONTACT US ",
 	"content": [
-		["We are here to help you.","p"],
+		["FestCoordinater","p"],
 		[
 			[
-				["Code", "Fest Coordinater"],
+				
 				["Name", "Shubham Gupta"],
 				["Contact", " 8075016394"]
 
 			], "t"],
+		["TechnicalHead","p"],
 		[[
-				["Code", "Fest Coordinater"],
+		
 				["Name", "Sachin Rustagi"],
 				["Contact", " 8075111788"]
 
 			], "t"],
+		["CulturalHead","p"],
 		        [[
-				["Code", "Cultural Head"],
+			
 				["Name", "Animesh Sonker"],
 				["Contact", " 6386535127"]
 
