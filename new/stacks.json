@@ -11,7 +11,7 @@
          },
          {
             "title":"Drone Race",
-            "img":"DR.jpg",
+            "img":"DR.jpeg",
             "date":"28 Oct 2018",
             "time":"4:00 PM",
             "code":"DR"
@@ -44,35 +44,35 @@
       "items":[
          {
             "title":"Scratches and Scribbles",
-            "img":"/CRIB.jpg",
+            "img":"CRIB.jpeg",
             "date":"",
             "time":"",
             "code":"CRIB"
          },
          {
             "title":"Ink and Quills",
-            "img":"/INK.jpg",
+            "img":"INK.jpeg",
             "date":"",
             "time":"",
             "code":"INK"
          },
          {
             "title":"Personified",
-            "img":"/PER.jpg",
+            "img":"PER.jpeg",
             "date":"",
             "time":"",
             "code":"PER"
          },
          {
             "title":"Snapshot",
-            "img":"/SNAP.jpg",
+            "img":"SNAP.jpeg",
             "date":"",
             "time":"",
             "code":"SNAP"
          },
          {
             "title":"Twist the End",
-            "img":"/END.jpg",
+            "img":"END.jpeg",
             "date":"",
             "time":"",
             "code":"END"
@@ -91,7 +91,7 @@
          },
          {
             "title":"DRAMATRIX BATTLEGROUND",
-            "img":"DB.jpg",
+            "img":"DB.jpeg",
             "date":"27 Oct 2018",
             "time":"--",
             "code":"DB"
@@ -164,7 +164,7 @@
          },
          {
             "title":"ARSH",
-            "img":"AH.png",
+            "img":"AH.jpeg",
             "date":"27 Oct 2018",
             "time":"o7:00 PM",
             "code":"AH"
