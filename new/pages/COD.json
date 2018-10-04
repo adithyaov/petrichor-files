@@ -17,6 +17,7 @@
 	],
 	"footer": [
 		{"href": "http://register/djbdkc/", "value": "Register"},
-		{"href": "mailto:djdsd", "value": "Share"}
+		{"href": "mailto:djdsd", "value": "Share"},
+		{"href": "https://docs.google.com/document/d/1sY9iNQl4reFIeaTSi-hoM238hVPdP9Tq0TV5ybKwOwI/edit?usp=sharing", "value": "Event Rules"}
 	]
 }
