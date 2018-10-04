@@ -19,6 +19,7 @@
 	],
 	"footer": [
 		{"href": "http://register/djbdkc/", "value": "Register"},
-		{"href": "mailto:djdsd", "value": "Share"}
+		{"href": "mailto:djdsd", "value": "Share"},
+		{"href": "mailto:djdsd", "value": "book "}
 	]
 }
