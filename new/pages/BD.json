@@ -10,13 +10,15 @@
 				["Name", "Brige Design"],
 				["Date", "27 Oct 2018"],
 				["Time", "5:00 PM"],
-				["Contact", " "]
+				["Contact 1", "9497155997"],
+				["Contact 2", "9686045881"]
 
 			], "t"]
 		
 	],
 	"footer": [
 		{"href": "http://register/djbdkc/", "value": "Register"},
-		{"href": "mailto:djdsd", "value": "Share"}
+		{"href": "mailto:djdsd", "value": "Share"},
+		{"href": "https://docs.google.com/document/d/1qPZ5dvcvVNylQ0GeSVq2vFIoWCBhB17f344vb3cCwtU/edit?usp=sharing", "value": "Event Rules"}
 	]
 }
