@@ -10,13 +10,14 @@
 				["Name", "Pirate Battle"],
 				["Date", "28 Oct 2018"],
 				["Time", "1:00 PM"],
-				["Contact", " "]
+				["Contact", "9660770836"]
 
 			], "t"]
 		
 	],
 	"footer": [
 		{"href": "http://register/djbdkc/", "value": "Register"},
-		{"href": "mailto:djdsd", "value": "Share"}
+		{"href": "mailto:djdsd", "value": "Share"},
+		{"href": "https://docs.google.com/document/d/1y8Os0EoueGcCP5WZygeNOIsQqRdk0Ngmf5_9_k6s-Zw/edit?usp=sharing", "value": "Event Rules"}
 	]
 }
