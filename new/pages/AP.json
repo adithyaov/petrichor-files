@@ -17,7 +17,7 @@
 		
 	],
 	"footer": [
-		{"href": "facebook.com", "value": "Register"},
+		{"href": "https://docs.google.com/forms/d/e/1FAIpQLSek82QWareg5O7ZIGfyHEcu2J8pWWwyXf5uetmxfLZunqD5LA/viewform?usp=sf_link", "value": "Register"},
 		{"href": "mailto:djdsd", "value": "Share"},
 		{"href": "https://docs.google.com/document/d/1EDqNISDQilLub9pbxW1Q81JB9DCOw23Kum9_X8Etovc/edit?usp=sharing", "value": "Event Rules"}
 	]
