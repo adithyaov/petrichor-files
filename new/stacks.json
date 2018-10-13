@@ -3,13 +3,6 @@
       "title":"Technical",
       "items":[
          {
-            "title":"Clash of Droids",
-            "img":"COD.jpg",
-            "date":"27 Oct 2018",
-            "time":"1:00 PM",
-            "code":"COD"
-         },
-         {
             "title":"Drone Race",
             "img":"DR.jpg",
             "date":"28 Oct 2018",
@@ -22,6 +15,13 @@
             "date":"28 Oct 2018",
             "time":"1:00 PM",
             "code":"PB"
+         },
+         {
+            "title":"Clash of Droids",
+            "img":"COD.jpg",
+            "date":"27 Oct 2018",
+            "time":"1:00 PM",
+            "code":"COD"
          },
          {
             "title":"Bridge Design",
