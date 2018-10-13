@@ -26,11 +26,15 @@
 			[
 				["Code", "TE"],
 				["Name", "Twist the End"],
-                                ["Contact" , "7780183555"]
+                                ["Date", "28 Oct 2018"],
+				["Time", "12:00"],
+				["Contact", "Nellipudi Poojitha Reddy - 7780183555"],
+				["Email Id", "131701018@smail.iitpkd.ac.in"]
 
 			], "t"]
 		],
 	"footer": [
+		{"href": "http://register/djbdkc/", "value": "Rule Book"},
 		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 	]
