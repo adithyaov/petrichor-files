@@ -16,12 +16,13 @@
 				["Name", "Scratches and Scribbles"],
                                 ["Date", "28 Oct 2018"],
 				["Time", "12:00"],
-				["Contact", "Gyan Ranjan - 8281112728"],
-				["Email Id", "101601011@smail.iitpkd.ac.in"]
+				["Contact", "Himanshu Khandelwal - 9079848696"],
+				["Email Id", "101701012@smail.iitpkd.ac.in"]
 
 			], "t"]
 		],
 	"footer": [
+		{"href": "http://register/djbdkc/", "value": "Rule Book"},
 		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 	]
