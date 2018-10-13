@@ -152,6 +152,37 @@
          }
       ]
    },
+      {
+      "title":"Workshops",
+      "items":[
+         {
+            "title":"IOT",
+            "img":"IOT.jpg",
+            "date":"28 Oct 2018",
+            "time":"",
+            "code":"IOT"
+         },
+         {
+            "title":"Game Developement",
+            "img":"GD.jpg",
+            "date":"27 Oct 2018",
+            "time":"",
+            "code":"GD"
+         }
+      ]
+},
+      {
+      "title":"Guest Lectures",
+      "items":[
+         {
+            "title":"Pen It Down",
+            "img":"PID.jpg",
+            "date":"28 Oct 2018",
+            "time":"11:00 AM",
+            "code":"PID"
+         }
+      ]
+},
      {
       "title":"Night Shows",
       "items":[
