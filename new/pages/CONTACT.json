@@ -48,6 +48,6 @@
 		
 	],
 
-	"footer": [],
+	"footer": [{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Quries"}],
 	"img": "cover1.png"
 }
