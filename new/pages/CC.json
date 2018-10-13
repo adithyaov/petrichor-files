@@ -23,12 +23,13 @@
 				["Name", "Concurso"],
 				["Date", "27 Oct 2018"],
 				["Time", "12:00 PM"],
-                                ["Contact" , "9188008131"]
-
+                                ["Contact", "Ashawini Ganesh Hiwarale - 9188008131"],
+				["Email Id", "101801010@smail.iitpkd.ac.in"]
 			], "t"]
 		
 	],
 	"footer": [
+		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 	]
