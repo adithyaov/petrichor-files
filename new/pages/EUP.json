@@ -12,15 +12,16 @@
 			[
 				["Code", "EUP"],
 				["Name", "EUPHONY"],
-				["Date", "27 Oct 2018"],
-				["Time", "14:00"],
-				["Contact", "8281112728"],
+				["Date", "28 Oct 2018"],
+				["Time", "12:00"],
+				["Contact", "Gyan Ranjan - 8281112728"],
 				["EMAIL ID", "101601011@smail.iitpkd.ac.in"]
 
 			], "t"]
 	],
 	"footer": [
-		{"href": "http://register/djbdkc/", "value": "Register"},
+		{"href": "https://docs.google.com/document/d/1iehcbtxfTRJckp4tEpQKz3HjneKDgJ_t0RHylu-jcQA/edit?usp=sharing", "value": "Rule Book"},
+		{"href": "https://docs.google.com/forms/d/1mD2N_FM2TlJ2PuP6lkeTlpk60FbiUgGmS3ujURYhO8E/edit?usp=sharing", "value": "Register"},
 		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 	]
 }
