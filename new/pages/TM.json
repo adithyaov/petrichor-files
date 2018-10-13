@@ -11,12 +11,12 @@
 				["Date", "27 Oct 2018"],
 				["Time", "16:00"],
 				["Contact", "Purav G Kothiya - 9512177190"],
-				["EMAIL ID", "101701023@smail.iitpkd.ac.in"]
+				["Email Id", "101701023@smail.iitpkd.ac.in"]
 
 			], "t"]
 	],
 	"footer": [
-		{"href": "http://register/djbdkc/", "value": "Rule Book"},
+		{"href": "https://docs.google.com/document/d/1EoVHFaoDVI9r7NoHGcYabhGJSeijB503X0z7AlZkMMc/edit?usp=sharing", "value": "Rule Book"},
 		{"href": "https://docs.google.com/forms/d/10d1HNSQcC9whH6HfPbtOv8P8TUKKLdcMxus8Na1TVTQ/edit?usp=sharing", "value": "Register"},
 		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 	]
