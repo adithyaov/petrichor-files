@@ -3,7 +3,8 @@
 	"img": "CFF.jpg",
 	"content": [
 		["From an era that thought of ghagras and jhumkas to a generation that sets their eyes on crop tops and chokers, Indian fashion ideas have undergone a major transformation. And we at IIT Palakkad give you the opportunity to explore the Western realms of fashion while keeping in touch with the desi in you. Presenting Calico, our Indo Western Fashion Meet to help rekindle your passion for fashion.",
-			"p"],
+			"p"
+		],
 		[
 			[
 				["Code", "CFF"],
@@ -11,12 +12,20 @@
 				["Date", "28 Oct 2018"],
 				["Time", "14:00"],
 				["Contact", "Maria Rose Joseph - 7034984596"]
-			], "t"]
+			], "t"
+		]
 	],
-	"footer": [
-		{"href": "https://docs.google.com/document/d/1D62PJECBhmX9RPY3tuX-0KPnsn8_aLsa9djVrrtuiOE/edit?usp=sharing", "value": "Rule Book"},
-		{"href": "https://docs.google.com/forms/d/1wNOL2xWmxZjsrC3nJf0uECPK_po5R1WvpzDDtkISx5o/edit?usp=sharing/", "value": "Register"},
-		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
+	"footer": [{
+			"href": "https://docs.google.com/document/d/1D62PJECBhmX9RPY3tuX-0KPnsn8_aLsa9djVrrtuiOE/edit?usp=sharing",
+			"value": "Rule Book"
+		},
+		{
+			"href": "https://docs.google.com/forms/d/1wNOL2xWmxZjsrC3nJf0uECPK_po5R1WvpzDDtkISx5o/edit?usp=sharing/",
+			"value": "Register"
+		},
+		{
+			"href": "mailto:petrichor@iitpkd.ac.in",
+			"value": "Query"
+		}
 	]
 }
-
