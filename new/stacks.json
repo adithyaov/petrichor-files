@@ -21,14 +21,14 @@
             "img":"COD.jpg",
             "date":"27 Oct 2018",
             "time":"1:00 PM",
-           "code":"COD"
+            "code":"COD"
          },
          {
             "title":"Bridge Design",
             "img":"BD.jpg",
             "date":"27 Oct 2018",
             "time":"4:30 PM",
-           "code":"BD"
+             "code":"BD"
          },
          {
             "title":"App Development",
@@ -47,7 +47,7 @@
             "img":"PCS.jpg",
             "date":"27 Oct 2018",
             "time":"--",
-           "code":"PCS"
+            "code":"PCS"
          },
          {
             "title":"DRAMATRIX BATTLEGROUND",
@@ -135,7 +135,7 @@
             "img":"HMS.jpg",
             "date":"28 Oct 2018",
             "time":"12:00 PM",
-           "code":"HMS"
+            "code":"HMS"
          },
          {
             "title":"Concurso",
@@ -192,7 +192,7 @@
             "img":"TB.jpg",
             "date":"28 Oct 2018",
             "time":"08:00 PM",
-           "code":"TB"
+            "code":"TB"
          },
          {
             "title":"Standup Comedy",
@@ -206,7 +206,7 @@
             "img":"AH.jpg",
             "date":"27 Oct 2018",
             "time":"08:00 PM",
-           "code":"AH"
+            "code":"AH"
          }
       ]
    }
