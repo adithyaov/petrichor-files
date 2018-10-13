@@ -1,7 +1,7 @@
 {
 	"title": " CONTACT US ",
 	"content": [
-		["FestCoordinater","p"],
+		["Fest Coordinater","p"],
 		[
 			[
 				
@@ -9,20 +9,41 @@
 				["Contact", " 8075016394"]
 
 			], "t"],
-		["TechnicalHead","p"],
+		["Technical Head","p"],
 		[[
 		
 				["Name", "Sachin Rustagi"],
 				["Contact", " 8075111788"]
 
 			], "t"],
-		["CulturalHead","p"],
+		["Cultural Head","p"],
 		        [[
 			
 				["Name", "Animesh Sonker"],
 				["Contact", " 6386535127"]
 
-			], "t"]
+			], "t"],
+		["Promotion Head","p"],
+		[[
+		
+				["Name", "Omkar Sakre"],
+				["Contact", " 8692028636"]
+
+			], "t"],
+		["Hospitality Head","p"],
+		[[
+		
+				["Name", "Jithin Lal Pradeep"],
+				["Contact", " 9037229949"]
+
+			], "t"],
+		["Finance Head","p"],
+		[[
+		
+				["Name", "Balu V "],
+				["Contact", " 9400900163"]
+
+			], "t"],
 		
 		
 	],
