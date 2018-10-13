@@ -2,6 +2,7 @@
 	"title": " Guest lecture ",
 	"img": "GL.jpg ",
 	"content": [
+		["SPEAKER: RANJAN SINGH","p"],
 		["ABOUT_THE_SPEAKER",
 			"p"
 		],
