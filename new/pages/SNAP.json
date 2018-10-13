@@ -31,7 +31,7 @@
 		],
 	"footer": [
 		{"href": "http://register/djbdkc/", "value": "Rule Book"},
-		{"href": "http://register/djbdkc/", "value": "Register"},
+		{"href": "https://docs.google.com/forms/d/1gAirgKDEOBd2xDB5eu9wR0XmEXi-rP-ETBrQqSD-OpA/edit?usp=sharing", "value": "Register"},
 		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 	]
 }
