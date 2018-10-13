@@ -10,12 +10,13 @@
 				["Name", "Hundred Miles a Second"],
 				["Date", "28 Oct 2018"],
 				["Time", "12:00 PM"],
-                                ["Contact", "+91-7994257577"]
-
+                                ["Contact", "Priyanka G R - 7994257577"],
+				["Email Id", "121801039@smail.iitpkd.ac.in"]
 			], "t"]
 		
 	],
 	"footer": [
+		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 	]
