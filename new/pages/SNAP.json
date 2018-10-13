@@ -22,11 +22,15 @@
 			[
 				["Code", "SPS"],
 				["Name", "Snapshot"],
-                                ["Contact" , "9163806500"]
+                                ["Date", "28 Oct 2018"],
+				["Time", "12:00"],
+				["Contact", "Subhajit Karmakar - 9163806500"],
+				["Email Id", "111801041@smail.iitpkd.ac.in"]
 
 			], "t"]
 		],
 	"footer": [
+		{"href": "http://register/djbdkc/", "value": "Rule Book"},
 		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 	]
