@@ -10,11 +10,15 @@
 			[
 				["Code", "IQ"],
 				["Name", "Ink and Quills"],
-                                ["Contact" , "8281928478"]
+                                ["Date", "28 Oct 2018"],
+				["Time", "12:00"],
+				["Contact", "Gyan Ranjan - 8281112728"],
+				["Email Id", "101601011@smail.iitpkd.ac.in"]
 
 			], "t"]
 		],
 	"footer": [
+		{"href": "http://register/djbdkc/", "value": "Rule Book"},
 		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 	]
