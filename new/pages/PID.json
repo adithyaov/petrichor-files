@@ -13,11 +13,13 @@
 				["Name", "Pen it Down"],
 				["Date", "28 Oct 2018"],
 				["Time", "11:00 AM"],
-                                ["Contact", "9567465230"]
+                                ["Contact", "Abhishek Saran - 9567465230"],
+				["Email Id", "111701001@smail.iitpkd.ac.in"]
 			], "t"]
 		
 	],
 	"footer": [
+		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "http://register/djbdkc/", "value": "Register"},
 		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 	]
