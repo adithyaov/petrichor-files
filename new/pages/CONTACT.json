@@ -23,18 +23,18 @@
 				["Contact", " 6386535127"]
 
 			], "t"],
-		["PromotionHead","p"],
-		[[
-		
-				["Name", "Omkar Sakre"],
-				["Contact", " 8692028636"]
-
-			], "t"],
 		["HospitalityHead","p"],
 		[[
 		
 				["Name", "Jithin Lal Pradeep"],
-				["Contact", " 9037229949"]
+				["Contact", "9037229949"]
+
+			], "t"],
+		["PromotionHead","p"],
+		[[
+		
+				["Name", "Omkar Sakre"],
+				["Contact", "8692028636"]
 
 			], "t"],
 		["FinanceHead","p"],
