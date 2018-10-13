@@ -8,16 +8,17 @@
 			[
 				["Code", "FOF"],
 				["Name", "FEET ON FIRE"],
-				["Date", "27 Oct 2018"],
-				["Time", "--"],
-				["Contact", ""],
-				["EMAIL ID", "1@smail.iitpkd.ac.in"]
+				["Date", "28 Oct 2018"],
+				["Time", "14:00"],
+				["Contact", "Shyam Krishna M - 8281805401"],
+				["EMAIL ID", "131701028@smail.iitpkd.ac.in"]
 
 			], "t"]
 		
 	],
 	"footer": [
-		{"href": "http://register/djbdkc/", "value": "Register"},
+		{"href": "https://docs.google.com/document/d/1ICxh12D43xHnW2Wi6VcYUK4V5b_84ClUp3Evnkpyd-w/edit?usp=sharing", "value": "Rule book"},
+		{"href": "https://docs.google.com/forms/d/1MHzOI7_Iba_eLKdoX8LY2M87hrvYbnn5wq6NcQXDq7o/edit?usp=sharing", "value": "Register"},
 		{"href": "mailto:djdsd", "value": "Share"}
 	]
 }
