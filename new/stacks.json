@@ -6,35 +6,35 @@
             "title":"Drone Race",
             "img":"DR.jpg",
             "date":"28 Oct 2018",
-            "time":"4:00 PM",
+            "time":"4:00 PM"
            // "code":"DR"
          },
          {
             "title":"Pirate Battle",
             "img":"PB.jpg",
             "date":"28 Oct 2018",
-            "time":"1:00 PM",
+            "time":"1:00 PM"
           //  "code":"PB"
          },
          {
             "title":"Clash of Droids",
             "img":"COD.jpg",
             "date":"27 Oct 2018",
-            "time":"1:00 PM",
+            "time":"1:00 PM"
          //   "code":"COD"
          },
          {
             "title":"Bridge Design",
             "img":"BD.jpg",
             "date":"27 Oct 2018",
-            "time":"4:30 PM",
+            "time":"4:30 PM"
         //    "code":"BD"
          },
          {
             "title":"App Development",
             "img":"AP.jpeg",
             "date":"27 Oct 2018",
-            "time":"1:00 PM",
+            "time":"1:00 PM"
            // "code":"AP"
          }
       ]
@@ -46,42 +46,42 @@
             "title":"PICASSO",
             "img":"PCS.jpg",
             "date":"27 Oct 2018",
-            "time":"--",
+            "time":"--"
          //   "code":"PCS"
          },
          {
             "title":"DRAMATRIX BATTLEGROUND",
             "img":"DB.jpg",
             "date":"27 Oct 2018",
-            "time":"--",
+            "time":"--"
         //    "code":"IMP"
          },
          {
             "title":"FEET ON FIRE",
             "img":"FOF.jpg",
             "date":"27 Oct 2018",
-            "time":"--",
+            "time":"--"
          //   "code":"FOF"
          },
          {
             "title":"CALICO, THE FASHION FIESTA",
             "img":"CFF.jpg",
             "date":"27 Oct 2018",
-            "time":"--",
+            "time":"--"
          //   "code":"CFF"
          },
          {
             "title":"THE MASK",
             "img":"TM.jpg",
             "date":"27 Oct 2018",
-            "time":"--",
+            "time":"--"
          //   "code":"TM"
          },
          {
             "title":"EUPHONY",
             "img":"EUP.jpg",
             "date":"27 Oct 2018",
-            "time":"--",
+            "time":"--"
          //   "code":"EUP"
          }
       ]
@@ -93,35 +93,35 @@
             "title":"Scratches and Scribbles",
             "img":"CRIB.jpg",
             "date":"",
-            "time":"",
+            "time":""
           //  "code":"SS"
          },
          {
             "title":"Ink and Quills",
             "img":"INK.jpg",
             "date":"",
-            "time":"",
+            "time":""
           //  "code":"IQ"
          },
          {
             "title":"Personified",
             "img":"PER.jpg",
             "date":"",
-            "time":"",
+            "time":""
           //  "code":"PER"
          },
          {
             "title":"Snapshot",
             "img":"SNAP.jpg",
             "date":"",
-            "time":"",
+            "time":""
          //   "code":"SNAP"
          },
          {
             "title":"Twist the End",
             "img":"END.jpg",
             "date":"",
-            "time":"",
+            "time":""
          //   "code":"TE"
          }
       ]
@@ -134,21 +134,21 @@
             "title":"Hundred Miles A Second",
             "img":"HMS.jpg",
             "date":"28 Oct 2018",
-            "time":"12:00 PM",
+            "time":"12:00 PM"
          //   "code":"HMS"
          },
          {
             "title":"Concurso",
             "img":"CC.jpg",
             "date":"27 Oct 2018",
-            "time":"12:00 PM",
+            "time":"12:00 PM"
          //   "code":"CC"
          },
          {
             "title":"Pen It Down",
             "img":"PID.jpg",
             "date":"28 Oct 2018",
-            "time":"11:00 AM",
+            "time":"11:00 AM"
           //  "code":"PID"
          }
       ]
@@ -160,14 +160,14 @@
             "title":"IOT",
             "img":"IOT.jpg",
             "date":"28 Oct 2018",
-            "time":"",
+            "time":""
         //    "code":"IOT"
          },
          {
             "title":"Game Developement",
             "img":"GD.jpg",
             "date":"27 Oct 2018",
-            "time":"",
+            "time":""
         //    "code":"GD"
          }
       ]
@@ -179,7 +179,7 @@
             "title":"LECTURE",
             "img":"GL.jpg",
             "date":"28 Oct 2018",
-            "time":"11:00 AM",
+            "time":"11:00 AM"
         //    "code":"GL"
          }
       ]
@@ -191,21 +191,21 @@
             "title":"Thaikkudam Bridge",
             "img":"TB.jpg",
             "date":"28 Oct 2018",
-            "time":"08:00 PM",
+            "time":"08:00 PM"
          //   "code":"TB"
          },
          {
             "title":"Standup Comedy",
             "img":"SC.jpg",
             "date":"27 Oct 2018",
-            "time":"07:00 PM",
+            "time":"07:00 PM"
          //   "code":"SC"
          },
          {
             "title":"ARSH",
             "img":"AH.jpg",
             "date":"27 Oct 2018",
-            "time":"08:00 PM",
+            "time":"08:00 PM"
          //   "code":"AH"
          }
       ]
