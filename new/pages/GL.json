@@ -1,7 +1,23 @@
 {
 	"title": " Guest lecture ",
-	"img": "BD.jpg ",
+	"img": "GL.jpg ",
 	"content": [
+		["ABOUT_THE_SPEAKER",
+			"p"
+		],
+		[" Founder of online learning startup called ConceptOwl. Using video-based classroom coaching, bring top-tier science learning to rural and non-metro students.",
+			"p"
+		],
+		[" After graduating from IIT Kanpur in Electrical Engineering, He joined IPS and was assigned to Kerala cadre. For most of his short tenure in the IPS, Rajan Singh served as the Police Commissioner of Thiruvananthapuram from 2001 to 2004.",
+			"p"
+		],
+		[" In 2005, he resigned and joined for MBA at Wharton School of University of Pennsylvania, where he was a Palmer Scholar (top 5% of the class). After the course, Rajan got placed at McKinsey and Company, New York, for two years and then returned to India. After working in McKinsey (New York) and a billion dollar Private Equity fund, he became an education entrepreneur.",
+			"p"
+		],
+		[" He had taught finance to Investment Bankers. Now he teaches Physics,He wants to teach Science to millions of children in small towns and villages of India.The venture intends to change school science education. Concept Owl is tying up with schools to train teachers in creative teaching methods using science learning tools.",
+			"p"
+		],
+
 
 		[
 			[
@@ -12,18 +28,9 @@
 				["Contact ", "7389523231"]
 
 
-			], "t"],
-      ["ABOUT_THE_SPEAKER",
-       "p"],
-       [" Founder of online learning startup called ConceptOwl. Using video-based classroom coaching, bring top-tier science learning to rural and non-metro students.",
-       "p"],
-       [" After graduating from IIT Kanpur in Electrical Engineering, He joined IPS and was assigned to Kerala cadre. For most of his short tenure in the IPS, Rajan Singh served as the Police Commissioner of Thiruvananthapuram from 2001 to 2004.",
-       "p"],
-       [" In 2005, he resigned and joined for MBA at Wharton School of University of Pennsylvania, where he was a Palmer Scholar (top 5% of the class). After the course, Rajan got placed at McKinsey and Company, New York, for two years and then returned to India. After working in McKinsey (New York) and a billion dollar Private Equity fund, he became an education entrepreneur.",
-       "p"],
-       [" He had taught finance to Investment Bankers. Now he teaches Physics,He wants to teach Science to millions of children in small towns and villages of India.The venture intends to change school science education. Concept Owl is tying up with schools to train teachers in creative teaching methods using science learning tools.",
-"p"]
-		
+			], "t"
+		]
+
 	],
-	"footer": [	]
+	"footer": []
 }
