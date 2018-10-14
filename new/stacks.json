@@ -13,6 +13,7 @@
 				"img": "PB.jpg",
 				"date": "28 Oct 2018",
 				"time": "1:00 PM",
+				"quick": "http://google.com",
 				"code": "PB"
 			},
 			{
@@ -20,6 +21,7 @@
 				"img": "COD.jpg",
 				"date": "27 Oct 2018",
 				"time": "1:00 PM",
+				"quick": "http://google.com",
 				"code": "COD"
 			},
 			{
@@ -27,6 +29,7 @@
 				"img": "BD.jpg",
 				"date": "27 Oct 2018",
 				"time": "4:30 PM",
+				"quick": "http://google.com",
 				"code": "BD"
 			},
 			{
@@ -34,6 +37,7 @@
 				"img": "AP.jpeg",
 				"date": "27 Oct 2018",
 				"time": "1:00 PM",
+				"quick": "http://google.com",
 				"code": "AP"
 			}
 		]
@@ -45,6 +49,7 @@
 				"img": "PCS.jpg",
 				"date": "27 Oct 2018",
 				"time": "--",
+			"quick": "http://google.com",
 				"code": "PCS"
 			},
 			{
@@ -52,6 +57,7 @@
 				"img": "DB.jpg",
 				"date": "27 Oct 2018",
 				"time": "--",
+				"quick": "http://google.com",
 				"code": "IMP"
 			},
 			{
@@ -59,6 +65,7 @@
 				"img": "FOF.jpg",
 				"date": "27 Oct 2018",
 				"time": "--",
+				"quick": "http://google.com",
 				"code": "FOF"
 			},
 			{
@@ -66,6 +73,7 @@
 				"img": "CFF.jpg",
 				"date": "27 Oct 2018",
 				"time": "--",
+				"quick": "http://google.com",
 				"code": "CFF"
 			},
 			{
@@ -73,6 +81,7 @@
 				"img": "TM.jpg",
 				"date": "27 Oct 2018",
 				"time": "--",
+				"quick": "http://google.com",
 				"code": "TM"
 			},
 			{
@@ -80,6 +89,7 @@
 				"img": "EUP.jpg",
 				"date": "27 Oct 2018",
 				"time": "--",
+				"quick": "http://google.com",
 				"code": "EUP"
 			}
 		]
@@ -91,6 +101,7 @@
 				"img": "CRIB.jpg",
 				"date": "",
 				"time": "",
+			"quick": "http://google.com",
 				"code": "SS"
 			},
 			{
@@ -98,6 +109,7 @@
 				"img": "INK.jpg",
 				"date": "",
 				"time": "",
+				"quick": "http://google.com",
 				"code": "IQ"
 			},
 			{
@@ -105,6 +117,7 @@
 				"img": "PER.jpg",
 				"date": "",
 				"time": "",
+				"quick": "http://google.com",
 				"code": "PER"
 			},
 			{
@@ -112,6 +125,7 @@
 				"img": "SNAP.jpg",
 				"date": "",
 				"time": "",
+				"quick": "http://google.com",
 				"code": "SNAP"
 			},
 			{
@@ -119,6 +133,7 @@
 				"img": "END.jpg",
 				"date": "",
 				"time": "",
+				"quick": "http://google.com",
 				"code": "TE"
 			}
 		]
@@ -131,6 +146,7 @@
 				"img": "HMS.jpg",
 				"date": "28 Oct 2018",
 				"time": "12:00 PM",
+			"quick": "http://google.com",
 				"code": "HMS"
 			},
 			{
@@ -138,19 +154,22 @@
 				"img": "CC.jpg",
 				"date": "27 Oct 2018",
 				"time": "12:00 PM",
+				"quick": "http://google.com",
 				"code": "CC"
 			},
 			{
 				"title": "Pen It Down",
 				"img": "PID.jpg",
 				"date": "28 Oct 2018",
+				"quick": "http://google.com",
 				"time": "11:00 AM",
 				"code": "PID"
 			}
 		]
 	},
 	{
-		"title": "Workshops",
+		"title": "Worksho
+		"quick": "http://google.com",ps",
 		"items": [{
 				"title": "IOT",
 				"img": "IOT.jpg",
@@ -174,6 +193,7 @@
 			"img": "GL.jpg",
 			"date": "28 Oct 2018",
 			"time": "11:00 AM",
+			"quick": "http://google.com",
 			"code": "GL"
 		}]
 	},
@@ -181,7 +201,8 @@
 		"title": "Night Shows",
 		"items": [{
 				"title": "Thaikkudam Bridge",
-				"img": "TB.jpg",
+				"img": "TB.jp
+			"quick": "http://google.com",g",
 				"date": "28 Oct 2018",
 				"time": "08:00 PM",
 				"code": "TB"
@@ -191,8 +212,10 @@
 				"img": "AH.jpg",
 				"date": "27 Oct 2018",
 				"time": "08:00 PM",
+				"quick": "http://google.com",
 				"code": "AH"
 			}
 		]
 	}
+"quick": "http://google.com",
 ]
