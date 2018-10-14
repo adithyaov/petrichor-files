@@ -5,7 +5,8 @@
 				"img": "DR.jpg",
 				"date": "28 Oct 2018",
 				"time": "4:00 PM",
-				"code": "DR"
+				"code": "DR",
+				"quick": "http://google.com"
 			},
 			{
 				"title": "Pirate Battle",
