@@ -6,14 +6,14 @@
 				"date": "28 Oct 2018",
 				"time": "4:00 PM",
 				"code": "DR",
-				"quick": "http://google.com"
+				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSc9AjVQsLl2P5OTss-JhVbim0vWVEjzHBuPtlF8Il8yrxJ65w/viewform?usp=sf_link"
 			},
 			{
 				"title": "Pirate Battle",
 				"img": "PB.jpg",
 				"date": "28 Oct 2018",
 				"time": "1:00 PM",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSfhYwvsZyZuIA2TEviDHQVZLt2HMxwr5Ia2KAawmdqrFCQyew/viewform?usp=sf_link",
 				"code": "PB"
 			},
 			{
@@ -21,7 +21,7 @@
 				"img": "COD.jpg",
 				"date": "27 Oct 2018",
 				"time": "1:00 PM",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSdr2FJPoTct009F154v6Q3nEO0I6VNA9RUUk33C16kih2nqBw/viewform?usp=sf_link",
 				"code": "COD"
 			},
 			{
@@ -29,7 +29,7 @@
 				"img": "BD.jpg",
 				"date": "27 Oct 2018",
 				"time": "4:30 PM",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSeICncwKPa8zS3tU5Ngv4AcL7Wjl3b7pnKwqCSs3_j9pn7m0A/viewform?usp=sf_link",
 				"code": "BD"
 			},
 			{
@@ -49,7 +49,7 @@
 				"img": "PCS.jpg",
 				"date": "27 Oct 2018",
 				"time": "--",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/1TC86AsaGP6mMKfWBaDghcFu-wI9APcybHz35ku7HNV8/edit?usp=sharing",
 				"code": "PCS"
 			},
 			{
@@ -57,7 +57,7 @@
 				"img": "DB.jpg",
 				"date": "27 Oct 2018",
 				"time": "--",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/1LBvCGgb7FNE9BBJHjg6t2UcUIBc8qB1kj9PbjsoTNmY/edit?usp=sharing",
 				"code": "IMP"
 			},
 			{
@@ -65,7 +65,7 @@
 				"img": "FOF.jpg",
 				"date": "27 Oct 2018",
 				"time": "--",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/1MHzOI7_Iba_eLKdoX8LY2M87hrvYbnn5wq6NcQXDq7o/edit?usp=sharing",
 				"code": "FOF"
 			},
 			{
@@ -73,7 +73,7 @@
 				"img": "CFF.jpg",
 				"date": "27 Oct 2018",
 				"time": "--",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/1wNOL2xWmxZjsrC3nJf0uECPK_po5R1WvpzDDtkISx5o/edit?usp=sharing/",
 				"code": "CFF"
 			},
 			{
@@ -81,7 +81,7 @@
 				"img": "TM.jpg",
 				"date": "27 Oct 2018",
 				"time": "--",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/10d1HNSQcC9whH6HfPbtOv8P8TUKKLdcMxus8Na1TVTQ/edit?usp=sharing",
 				"code": "TM"
 			},
 			{
@@ -89,7 +89,7 @@
 				"img": "EUP.jpg",
 				"date": "27 Oct 2018",
 				"time": "--",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/1mD2N_FM2TlJ2PuP6lkeTlpk60FbiUgGmS3ujURYhO8E/edit?usp=sharing",
 				"code": "EUP"
 			}
 		]
@@ -101,7 +101,7 @@
 				"img": "CRIB.jpg",
 				"date": "",
 				"time": "",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/17QQih6ovKM_nPowWJiC2eSKvRNpKAlyelj9a_WEx3_c/edit?usp=sharing",
 				"code": "SS"
 			},
 			{
@@ -109,7 +109,7 @@
 				"img": "INK.jpg",
 				"date": "",
 				"time": "",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/1ssD00kpkIsx45Im_b7etYQNejjRKKQHvilIksrvT12E/edit?usp=sharing",
 				"code": "IQ"
 			},
 			{
@@ -117,7 +117,7 @@
 				"img": "PER.jpg",
 				"date": "",
 				"time": "",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/1jgnu6T3pE0BayHUlfLetINVSMVT6BxjVAQVZ_OJCdbs/edit?usp=sharing",
 				"code": "PER"
 			},
 			{
@@ -125,7 +125,7 @@
 				"img": "SNAP.jpg",
 				"date": "",
 				"time": "",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/1gAirgKDEOBd2xDB5eu9wR0XmEXi-rP-ETBrQqSD-OpA/edit?usp=sharing",
 				"code": "SNAP"
 			},
 			{
@@ -133,7 +133,7 @@
 				"img": "END.jpg",
 				"date": "",
 				"time": "",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/1uAEmjNvCgqhM6LkikZcZ8jD0atyJF2BWAOkxm6UFJl0/edit?usp=sharing",
 				"code": "TE"
 			}
 		]
@@ -146,7 +146,7 @@
 				"img": "HMS.jpg",
 				"date": "28 Oct 2018",
 				"time": "12:00 PM",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/1Ffw3jDhfGDj6JOefIx441jWwcVUudcQIqrhNLW4f_Js/edit?usp=sharing",
 				"code": "HMS"
 			},
 			{
@@ -154,14 +154,14 @@
 				"img": "CC.jpg",
 				"date": "27 Oct 2018",
 				"time": "12:00 PM",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/1AaShH4EcnLQqInO53xPvWLpY3fLPeSjF8vAvwN7f1iA/edit?usp=sharing",
 				"code": "CC"
 			},
 			{
 				"title": "Pen It Down",
 				"img": "PID.jpg",
 				"date": "28 Oct 2018",
-				"quick": "http://google.com",
+				"quick": "https://docs.google.com/forms/d/1a2WRZFLGGFok3lSjxXjtXFRLvNZMykv6NEUqMdkJn78/edit?usp=sharing",
 				"time": "11:00 AM",
 				"code": "PID"
 			}
@@ -194,7 +194,7 @@
 			"img": "GL.jpg",
 			"date": "28 Oct 2018",
 			"time": "11:00 AM",
-			"quick": "http://google.com",
+			"quick": "https://goo.gl/forms/mbLeVnitDIVYreDZ2",
 			"code": "GL"
 		}]
 	},
@@ -203,7 +203,7 @@
 		"items": [{
 				"title": "Thaikkudam Bridge",
 				"img": "TB.jpg",
-				"quick": "http://google.com",
+				"quick": "https://goo.gl/forms/mbLeVnitDIVYreDZ2",
 				"date": "28 Oct 2018",
 				"time": "08:00 PM",
 				"code": "TB"
@@ -213,7 +213,7 @@
 				"img": "AH.jpg",
 				"date": "27 Oct 2018",
 				"time": "08:00 PM",
-				"quick": "http://google.com",
+				"quick": "https://goo.gl/forms/mbLeVnitDIVYreDZ2",
 				"code": "AH"
 			}
 		]
