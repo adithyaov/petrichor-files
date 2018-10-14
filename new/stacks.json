@@ -49,7 +49,7 @@
 				"img": "PCS.jpg",
 				"date": "27 Oct 2018",
 				"time": "--",
-			"quick": "http://google.com",
+				"quick": "http://google.com",
 				"code": "PCS"
 			},
 			{
@@ -101,7 +101,7 @@
 				"img": "CRIB.jpg",
 				"date": "",
 				"time": "",
-			"quick": "http://google.com",
+				"quick": "http://google.com",
 				"code": "SS"
 			},
 			{
@@ -146,7 +146,7 @@
 				"img": "HMS.jpg",
 				"date": "28 Oct 2018",
 				"time": "12:00 PM",
-			"quick": "http://google.com",
+				"quick": "http://google.com",
 				"code": "HMS"
 			},
 			{
@@ -168,8 +168,7 @@
 		]
 	},
 	{
-		"title": "Worksho
-		"quick": "http://google.com",ps",
+		"title": "Workshops",
 		"items": [{
 				"title": "IOT",
 				"img": "IOT.jpg",
@@ -201,8 +200,8 @@
 		"title": "Night Shows",
 		"items": [{
 				"title": "Thaikkudam Bridge",
-				"img": "TB.jp
-			"quick": "http://google.com",g",
+				"img": "TB.jpg",
+				"quick": "http://google.com",
 				"date": "28 Oct 2018",
 				"time": "08:00 PM",
 				"code": "TB"
@@ -217,5 +216,5 @@
 			}
 		]
 	}
-"quick": "http://google.com",
+
 ]
