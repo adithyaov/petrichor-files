@@ -2,16 +2,7 @@
 	"title": "Concurso",
 	"img": "CC.jpg",
 	"content": [
-		["Are you a prodigy who never misses out new events? Do you outsmart the crowd with lightning fast thoughts? ",
-			"p"],
-
-        ["Join us as we unveil Concurso, the ultimate quiz challenge that will boggle your mind and push it to the maximum." ,
-	    	"p"],
-
-        ["Be prepared to encounter unparalleled themes, twists and turns as you set to embark on a journey you have never taken before." , 
-			 "p"],
-
-		["Knowledge, wit, logic and composure are your weapons. Do you have what it takes to fight the way to a glorious victory?" , 
+		["Are you a prodigy who never misses out new events? Do you outsmart the crowd with lightning fast thoughts? Join us as we unveil Concurso, the ultimate quiz challenge that will boggle your mind and push it to the maximum. Be prepared to encounter unparalleled themes, twists and turns as you set to embark on a journey you have never taken before. Knowledge, wit, logic and composure are your weapons. Do you have what it takes to fight the way to a glorious victory?",
 			"p"],
 
 		["Let's find out!" , 
@@ -22,7 +13,7 @@
 				["Code", "CC"],
 				["Name", "Concurso"],
 				["Date", "27 Oct 2018"],
-				["Time", "12:00 PM"],
+				["Time", "14:00 hrs"],
                                 ["Contact", "Ashawini Ganesh Hiwarale - 9188008131"],
 				["Email Id", "101801010@smail.iitpkd.ac.in"]
 			], "t"]
