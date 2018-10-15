@@ -23,6 +23,8 @@
 		
 	],
 	"footer": [
+		"href": "https://goo.gl/forms/mbLeVnitDIVYreDZ2", "value": "Register"},
+		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 		
 	]
 }
