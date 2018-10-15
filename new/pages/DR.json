@@ -9,14 +9,14 @@
 				["Code", "DR"],
 				["Name", " Drone Race "],
 				["Date", "28 Oct 2018"],
-				["Time", "4:00 PM"],
+				["Time", "16:00 hrs"],
 				["Contact", "8075111788"]
 
 			], "t"]
 	],
 	"footer": [
+		{"href": "https://docs.google.com/document/d/1gr4DR-VgVPd3L8jVtZcYrA8502bh4nYm3y2QLWcUSRY/edit?usp=sharing", "value": "Rule Book"},
 		{"href": "https://docs.google.com/forms/d/e/1FAIpQLSc9AjVQsLl2P5OTss-JhVbim0vWVEjzHBuPtlF8Il8yrxJ65w/viewform?usp=sf_link", "value": "Register"},
-		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"},
-		{"href": "https://docs.google.com/document/d/1gr4DR-VgVPd3L8jVtZcYrA8502bh4nYm3y2QLWcUSRY/edit?usp=sharing", "value": "Event Rules"}
+		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 	]
 }
