@@ -9,15 +9,15 @@
 				["Code", "PB"],
 				["Name", "Pirate Battle"],
 				["Date", "28 Oct 2018"],
-				["Time", "1:00 PM"],
+				["Time", "13:00 hrs"],
 				["Contact", "9660770836"]
 
 			], "t"]
 		
 	],
 	"footer": [
+		{"href": "https://docs.google.com/document/d/1y8Os0EoueGcCP5WZygeNOIsQqRdk0Ngmf5_9_k6s-Zw/edit?usp=sharing", "value": "Rule Book"},
 		{"href": "https://docs.google.com/forms/d/e/1FAIpQLSfhYwvsZyZuIA2TEviDHQVZLt2HMxwr5Ia2KAawmdqrFCQyew/viewform?usp=sf_link", "value": "Register"},
-		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"},
-		{"href": "https://docs.google.com/document/d/1y8Os0EoueGcCP5WZygeNOIsQqRdk0Ngmf5_9_k6s-Zw/edit?usp=sharing", "value": "Event Rules"}
+		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 	]
 }
