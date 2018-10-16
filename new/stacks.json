@@ -152,7 +152,7 @@
 			{
 				"title": "Concurso",
 				"img": "CC.jpg",
-				"date": "27 Oct 2018",
+				"date": "",
 				"time": "",
 				"quick": "https://docs.google.com/forms/d/1AaShH4EcnLQqInO53xPvWLpY3fLPeSjF8vAvwN7f1iA/edit?usp=sharing",
 				"code": "CC"
@@ -162,7 +162,7 @@
 				"img": "PID.jpg",
 				"date": "",
 				"quick": "https://docs.google.com/forms/d/1a2WRZFLGGFok3lSjxXjtXFRLvNZMykv6NEUqMdkJn78/edit?usp=sharing",
-				"time": "11:00 AM",
+				"time": "",
 				"code": "PID"
 			}
 		]
@@ -172,7 +172,7 @@
 		"items": [{
 				"title": "IOT",
 				"img": "IOT.jpg",
-				"date": "28 Oct 2018",
+				"date": "",
 				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSfMD-h3mxk6SkLO7FHcWFjtviiYOXWREwrVohpO5JfRThozjg/viewform",
 				"time": "",
 				"code": "IOT"
@@ -180,7 +180,7 @@
 			{
 				"title": "Game Developement",
 				"img": "GD.jpg",
-				"date": "27 Oct 2018",
+				"date": "",
 				"time": "",
 				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSdXbYhsLnbnFG6s4XDXVN2cY-p5njRkJRoMNOX2nxVpmkxlpQ/viewform",
 				"code": "GD"
@@ -204,14 +204,14 @@
 				"title": "Thaikkudam Bridge",
 				"img": "TB.jpg",
 				"quick": "https://goo.gl/forms/mbLeVnitDIVYreDZ2",
-				"date": "28 Oct 2018",
+				"date": "",
 				"time": "",
 				"code": "TB"
 			},
 			{
 				"title": "ARSH",
 				"img": "AH.jpg",
-				"date": "27 Oct 2018",
+				"date": "",
 				"time": "",
 				"quick": "https://goo.gl/forms/s7tZABiSu5oKz4m92",
 				"code": "AH"
