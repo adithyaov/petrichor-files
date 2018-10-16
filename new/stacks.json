@@ -3,40 +3,40 @@
 		"items": [{
 				"title": "Drone Race",
 				"img": "DR.jpg",
-				"date": "28 Oct 2018",
-				"time": "4:00 PM",
+				"date": "",
+				"time": "",
 				"code": "DR",
 				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSc9AjVQsLl2P5OTss-JhVbim0vWVEjzHBuPtlF8Il8yrxJ65w/viewform?usp=sf_link"
 			},
 			{
 				"title": "Pirate Battle",
 				"img": "PB.jpg",
-				"date": "28 Oct 2018",
-				"time": "1:00 PM",
+				"date": "",
+				"time": "",
 				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSfhYwvsZyZuIA2TEviDHQVZLt2HMxwr5Ia2KAawmdqrFCQyew/viewform?usp=sf_link",
 				"code": "PB"
 			},
 			{
 				"title": "Clash of Droids",
 				"img": "COD.jpg",
-				"date": "27 Oct 2018",
-				"time": "1:00 PM",
+				"date": "",
+				"time": "",
 				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSdr2FJPoTct009F154v6Q3nEO0I6VNA9RUUk33C16kih2nqBw/viewform?usp=sf_link",
 				"code": "COD"
 			},
 			{
 				"title": "Bridge Design",
 				"img": "BD.jpg",
-				"date": "27 Oct 2018",
-				"time": "4:30 PM",
+				"date": "",
+				"time": "",
 				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSeICncwKPa8zS3tU5Ngv4AcL7Wjl3b7pnKwqCSs3_j9pn7m0A/viewform?usp=sf_link",
 				"code": "BD"
 			},
 			{
 				"title": "App Development",
 				"img": "AP.jpeg",
-				"date": "27 Oct 2018",
-				"time": "1:00 PM",
+				"date": "",
+				"time": "",
 				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSek82QWareg5O7ZIGfyHEcu2J8pWWwyXf5uetmxfLZunqD5LA/viewform?usp=sf_link",
 				"code": "AP"
 			}
@@ -47,7 +47,7 @@
 		"items": [{
 				"title": "PICASSO",
 				"img": "PCS.jpg",
-				"date": "27 Oct 2018",
+				"date": "",
 				"time": "--",
 				"quick": "https://docs.google.com/forms/d/1TC86AsaGP6mMKfWBaDghcFu-wI9APcybHz35ku7HNV8/edit?usp=sharing",
 				"code": "PCS"
@@ -55,7 +55,7 @@
 			{
 				"title": "IMPROV",
 				"img": "DB.jpg",
-				"date": "27 Oct 2018",
+				"date": "",
 				"time": "--",
 				"quick": "https://docs.google.com/forms/d/1LBvCGgb7FNE9BBJHjg6t2UcUIBc8qB1kj9PbjsoTNmY/edit?usp=sharing",
 				"code": "IMP"
@@ -63,7 +63,7 @@
 			{
 				"title": "FEET ON FIRE",
 				"img": "FOF.jpg",
-				"date": "27 Oct 2018",
+				"date": "",
 				"time": "--",
 				"quick": "https://docs.google.com/forms/d/1MHzOI7_Iba_eLKdoX8LY2M87hrvYbnn5wq6NcQXDq7o/edit?usp=sharing",
 				"code": "FOF"
@@ -71,7 +71,7 @@
 			{
 				"title": "CALICO, THE FASHION FIESTA",
 				"img": "CFF.jpg",
-				"date": "27 Oct 2018",
+				"date": "",
 				"time": "--",
 				"quick": "https://docs.google.com/forms/d/1wNOL2xWmxZjsrC3nJf0uECPK_po5R1WvpzDDtkISx5o/edit?usp=sharing/",
 				"code": "CFF"
@@ -79,7 +79,7 @@
 			{
 				"title": "THE MASK",
 				"img": "TM.jpg",
-				"date": "27 Oct 2018",
+				"date": "",
 				"time": "--",
 				"quick": "https://docs.google.com/forms/d/10d1HNSQcC9whH6HfPbtOv8P8TUKKLdcMxus8Na1TVTQ/edit?usp=sharing",
 				"code": "TM"
@@ -87,7 +87,7 @@
 			{
 				"title": "EUPHONY",
 				"img": "EUP.jpg",
-				"date": "27 Oct 2018",
+				"date": "",
 				"time": "--",
 				"quick": "https://docs.google.com/forms/d/1mD2N_FM2TlJ2PuP6lkeTlpk60FbiUgGmS3ujURYhO8E/edit?usp=sharing",
 				"code": "EUP"
@@ -144,8 +144,8 @@
 		"items": [{
 				"title": "Hundred Miles A Second",
 				"img": "HMS.jpg",
-				"date": "28 Oct 2018",
-				"time": "12:00 PM",
+				"date": "",
+				"time": "",
 				"quick": "https://docs.google.com/forms/d/1Ffw3jDhfGDj6JOefIx441jWwcVUudcQIqrhNLW4f_Js/edit?usp=sharing",
 				"code": "HMS"
 			},
@@ -153,14 +153,14 @@
 				"title": "Concurso",
 				"img": "CC.jpg",
 				"date": "27 Oct 2018",
-				"time": "12:00 PM",
+				"time": "",
 				"quick": "https://docs.google.com/forms/d/1AaShH4EcnLQqInO53xPvWLpY3fLPeSjF8vAvwN7f1iA/edit?usp=sharing",
 				"code": "CC"
 			},
 			{
 				"title": "Pen It Down",
 				"img": "PID.jpg",
-				"date": "28 Oct 2018",
+				"date": "",
 				"quick": "https://docs.google.com/forms/d/1a2WRZFLGGFok3lSjxXjtXFRLvNZMykv6NEUqMdkJn78/edit?usp=sharing",
 				"time": "11:00 AM",
 				"code": "PID"
@@ -192,8 +192,8 @@
 		"items": [{
 			"title": "LECTURE",
 			"img": "GL.jpg",
-			"date": "28 Oct 2018",
-			"time": "11:00 AM",
+			"date": "",
+			"time": "",
 			"quick": "https://goo.gl/forms/mbLeVnitDIVYreDZ2",
 			"code": "GL"
 		}]
@@ -205,14 +205,14 @@
 				"img": "TB.jpg",
 				"quick": "https://goo.gl/forms/mbLeVnitDIVYreDZ2",
 				"date": "28 Oct 2018",
-				"time": "08:00 PM",
+				"time": "",
 				"code": "TB"
 			},
 			{
 				"title": "ARSH",
 				"img": "AH.jpg",
 				"date": "27 Oct 2018",
-				"time": "08:00 PM",
+				"time": "",
 				"quick": "https://goo.gl/forms/s7tZABiSu5oKz4m92",
 				"code": "AH"
 			}
