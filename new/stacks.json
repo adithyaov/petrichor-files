@@ -182,21 +182,14 @@
 	},
  {
 		"title": "AMUZO",
-		"items": [{
-				"title": "ARCHERY",
-				"img": "ARC.jpg",
-				"date": "",
-				"time": "",
-				"code": "ARC",
-				"quick": ""
-			},
+		"items": [
 			{
-				"title": "PUB G",
-				"img": "PUBG.jpg",
+				"title": "Air Rifle",
+				"img": "AIR.jpg",
 				"date": "",
 				"time": "",
 				"quick": "",
-				"code": "PUBG"
+				"code": "AIR"
 			},
 			{
 				"title": "Virtual Reality",
@@ -207,12 +200,12 @@
 				"code": "VR"
 			},
 			{
-				"title": "Air Rifle",
-				"img": "AIR.jpg",
+				"title": "ARCHERY",
+				"img": "ARC.jpg",
 				"date": "",
 				"time": "",
-				"quick": "",
-				"code": "AIR"
+				"code": "ARC",
+				"quick": ""
 			},
 			{
 				"title": "Love Letter Writing",
@@ -221,7 +214,18 @@
 				"time": "",
 				"quick": "",
 				"code": "LLW"
+			},
+			{
+				"title": "PUB G",
+				"img": "PUBG.jpg",
+				"date": "",
+				"time": "",
+				"quick": "",
+				"code": "PUBG"
 			}
+			
+			
+			
 		]
 	},
 
