@@ -1,5 +1,18 @@
 [{
 		"title": "Technical",
+		"items": [
+			{
+				"title": "ACCOMODATION",
+				"img": "cover1.jpeg",
+				"date": "",
+				"time": "",
+				"quick": "",
+				"code": "ACC"
+			}
+		]
+	},
+	{
+		"title": "Technical",
 		"items": [{
 				"title": "Drone Race",
 				"img": "DR.jpg",
@@ -175,14 +188,14 @@
 				"date": "",
 				"time": "",
 				"code": "ARC",
-				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSc9AjVQsLl2P5OTss-JhVbim0vWVEjzHBuPtlF8Il8yrxJ65w/viewform?usp=sf_link"
+				"quick": ""
 			},
 			{
 				"title": "PUB G",
 				"img": "PUBG.jpg",
 				"date": "",
 				"time": "",
-				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSfhYwvsZyZuIA2TEviDHQVZLt2HMxwr5Ia2KAawmdqrFCQyew/viewform?usp=sf_link",
+				"quick": "",
 				"code": "PUBG"
 			},
 			{
@@ -190,7 +203,7 @@
 				"img": "VR.jpg",
 				"date": "",
 				"time": "",
-				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSdr2FJPoTct009F154v6Q3nEO0I6VNA9RUUk33C16kih2nqBw/viewform?usp=sf_link",
+				"quick": "",
 				"code": "VR"
 			},
 			{
@@ -198,7 +211,7 @@
 				"img": "AIR.jpg",
 				"date": "",
 				"time": "",
-				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSeICncwKPa8zS3tU5Ngv4AcL7Wjl3b7pnKwqCSs3_j9pn7m0A/viewform?usp=sf_link",
+				"quick": "",
 				"code": "AIR"
 			},
 			{
@@ -206,7 +219,7 @@
 				"img": "LLW.jpg",
 				"date": "",
 				"time": "",
-				"quick": "https://docs.google.com/forms/d/e/1FAIpQLSek82QWareg5O7ZIGfyHEcu2J8pWWwyXf5uetmxfLZunqD5LA/viewform?usp=sf_link",
+				"quick": "",
 				"code": "LLW"
 			}
 		]
