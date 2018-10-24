@@ -16,7 +16,9 @@
                                 ["Date", "24 Oct 2018"],
 				["Time", "21:00 hrs to 24:00 hrs"],
 				["Movie - 1", "THE DARK KNIGHT"],
+				["Twist Point", "In the movie THE "DARK KNIGHT", Coleman Reese, accountant at wayne enterprises, declares that he knows the identity of Batman and then Joker threatens to destroy a hospital unless Reese is killed within an hour. So, change the movie from the scene where Bruce Wayne speeds away in his Lamborghini Murcielago LP640...."],
 				["Movie - 2", "HOW TO TRAIN YOUR DRAGON PART-1"],
+				["Twist Point", "In the movie "HOW TO TRAIN YOUR DRAGON PART-1", Hiccup particpates in tournament (where he has to fight with dragons) and try to convice his people by leaving the shield, but the dragon out of fear attacks hiccup. Then,Night Fury (Toothless) tries to save hiccup, but his father attacks toothless. Hiccup shouts No!!. So, change the movie from this scene where Hiccup’s father attacks night fury..."],
 				["Contact", "Nellipudi Poojitha Reddy - 7780183555"],
 				["Email Id", "131701018@smail.iitpkd.ac.in"]
 
@@ -25,6 +27,7 @@
 	"footer": [
 		{"href": "https://docs.google.com/document/d/1n1jdLr2CcRsdoQkPTm77mlp364RmLevhsTyIgoOlyNA/edit?usp=sharing", "value": "Rule Book"},
 		{"href": "https://docs.google.com/forms/d/1uAEmjNvCgqhM6LkikZcZ8jD0atyJF2BWAOkxm6UFJl0/edit?usp=sharing", "value": "Register"},
+		{"href": "https://docs.google.com/forms/d/e/1FAIpQLSdhOce90ctW2ohaEMb4DfCga3lDmp88i0-jPgdKA9QZbLrE0Q/viewform?usp=pp_url", "value": "Submit"},
 		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 	]
 }
