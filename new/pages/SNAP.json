@@ -5,6 +5,9 @@
 		["Have you ever wondered why that caption under the pic is so bland? Do you feel that an unappetizing caption just kills the pic? Here's your moment to present your creativity in ventilating the words which a pic speaks.Kindle the fire of creativity in you and get ready to be in front of the screens. 'PETRICHOR' the Cultural Fest of IIT Palakkad presents 'SNAPSHOT'. 'SNAPSHOT' a contest which gives you an opportunity to escape into world of pictures and gives you the freedom to augment the beauty of pictures by your cool, quirky captions. Come on and create the magic using your treasure trove of vocabulary. " ,
 
                           "p"],
+		["Click on the (Way To Snapshot) button to submit your entries" ,
+
+                          "p"],
 
 		[
 			[
@@ -20,6 +23,7 @@
 	"footer": [
 		{"href": "https://docs.google.com/document/d/1OwZ2D_-A7cBBWhOBeh9RFxBX27z7XDOtL6d95IipICQ/edit?usp=sharing", "value": "Rule Book"},
 		{"href": "https://docs.google.com/forms/d/1gAirgKDEOBd2xDB5eu9wR0XmEXi-rP-ETBrQqSD-OpA/edit?usp=sharing", "value": "Register"},
+		{"href": "https://docs.google.com/forms/d/e/1FAIpQLScF8HX8Io4WBHbiH0ngYvXmNC1KAgyl97meoGHLnp9W4u-LnQ/viewform?usp=sf_link", "value": "Way To Snapshot"},
 		{"href": "mailto:petrichor@iitpkd.ac.in", "value": "Query"}
 	]
 }
